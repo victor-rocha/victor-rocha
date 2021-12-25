@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Victor _(Hugo)_ Rocha
 `{`
-#### Brazilian 🇧🇷 dude living in Kraków, Poland 🇵🇱 currently working as Team Lead @ William Hill
+#### Brazilian 🇧🇷 dude living in Barcelona, Spain 🇪🇸 currently working as Senior Software Engineer  @ Veepee
 
 Not much to see at my GitHub profile and repos but I'm always here trying to find inspiration to do my job and trying, somehow, to contribute with other people's job. 
 
